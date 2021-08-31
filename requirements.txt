@@ -1,0 +1,10 @@
+numpy
+tensorflow
+pandas
+talos
+emnist
+jupyterlab
+tabulate
+colorama
+pydot
+graphviz
